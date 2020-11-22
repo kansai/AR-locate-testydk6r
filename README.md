@@ -1,1 +1,0 @@
-# AR-locate-testydk6r
